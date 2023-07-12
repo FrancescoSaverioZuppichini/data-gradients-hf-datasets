@@ -1,0 +1,6 @@
+git+https://github.com/Deci-AI/data-gradients.git
+datasets[vision]
+pdf2image
+poppler-utils
+Pygments
+notebook
